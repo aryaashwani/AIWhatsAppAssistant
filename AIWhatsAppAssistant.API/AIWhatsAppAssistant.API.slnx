@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AIWhatsAppAssistant.API/AIWhatsAppAssistant.API.csproj" />
+  <Project Path="AIWhatsAppAssistant.Application/AIWhatsAppAssistant.Application.csproj" />
+  <Project Path="AIWhatsAppAssistant.Domain/AIWhatsAppAssistant.Domain.csproj" />
+  <Project Path="AIWhatsAppAssistant.Infrastructure/AIWhatsAppAssistant.Infrastructure.csproj" />
+</Solution>
